@@ -1,7 +1,7 @@
 module.exports = {
   getThemes () {
     return {
-      'plugin-light-mode': {
+      'plugin-light-one-mode': {
         cssPath: 'styles/light.css',
         darkMode: false
       }
