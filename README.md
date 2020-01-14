@@ -1,6 +1,6 @@
 
 # Theme One - ARK Desktop Wallet plugin
-Description of your theme
+Simple yet elegant theme
 
 ## Installation
 
