@@ -1,12 +1,12 @@
 {
-  "name": "@arkecosystem/desktop-wallet-theme-template",
-  "version": "0.0.1",
-  "description": "Desktop Wallet Theme Template",
+  "name": "@borismar/ark-desktop-wallet-theme-one",
+  "version": "0.9.1",
+  "description": "ARK Desktop Wallet Theme",
   "main": "src/index.js",
-  "author": "Author Name",
+  "author": "Boris Martirosov",
   "license": "MIT",
   "desktop-wallet": {
-    "title": "Theme Template",
+    "title": "ARK Theme One",
     "logo": "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/theme-template/master/logo.png",
     "categories": [
       "theme"
@@ -19,19 +19,19 @@
   "keywords": [
     "theme",
     "template",
-    "@arkecosystem",
+    "@borismar",
     "desktop-wallet",
     "plugin"
   ],
   "contributors": [
-    "Author Name"
+    "Boris Martirosov"
   ],
   "bugs": {
-    "url": "https://github.com/ark-ecosystem-desktop-plugins/theme-template/issues"
+    "url": "https://github.com/bobobobob/ark-theme-one/issues"
   },
-  "homepage": "https://github.com/ark-ecosystem-desktop-plugins/theme-template#readme",
+  "homepage": "https://github.com/bobobobob/ark-theme-one#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ark-ecosystem-desktop-plugins/theme-template.git"
+    "url": "git+https://github.com/bobobobob/ark-theme-one.git"
   }
 }

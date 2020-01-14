@@ -1,6 +1,5 @@
-(**THIS IS A TEMPLATE**)
 
-# Theme name - ARK Desktop Wallet plugin
+# Theme One - ARK Desktop Wallet plugin
 Description of your theme
 
 ## Installation
@@ -12,7 +11,7 @@ Description of your theme
 
 ## Credits
 
-- [Your Name](URL)
+- [Boris Martirosov](URL)
 - [All Contributors](../../contributors)
 
 ## License
