@@ -11,9 +11,9 @@ Simple yet elegant theme
 
 ## Credits
 
-- [Boris Martirosov](URL)
+- [Boris Martirosov](../)
 - [All Contributors](../../contributors)
 
 ## License
 
-[MIT](LICENSE) © [OWNER](URL)
+[MIT](LICENSE) © [Boris Martirosov](../)
