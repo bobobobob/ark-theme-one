@@ -1,6 +1,6 @@
 {
   "name": "@borismar/ark-desktop-wallet-theme-one",
-  "version": "0.9.5",
+  "version": "0.9.6",
   "description": "ARK Desktop Wallet almost gray theme",
   "main": "src/index.js",
   "author": "Boris Martirosov",
@@ -19,6 +19,7 @@
   "keywords": [
     "theme",
     "@borismar",
+    "@arkecosystem",
     "desktop-wallet",
     "plugin"
   ],
